@@ -26,7 +26,7 @@ The architecture of this project involves several key components:
 4. **Real-Time Analytics:** Provides real-time data insights and visualization.
 5. **Orchestration:** Uses Zookeeper for managing distributed applications and ensuring coordination among services.
 
-![Architecture Diagram](C:\Users\Chaaya\PycharmProjects\SmartCity\img.png)
+![Architecture Diagram](img.png)
 
 ## Installation
 To set up the project locally, follow these steps:
