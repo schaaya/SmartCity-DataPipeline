@@ -1,5 +1,3 @@
-Sure! Here's a `README.md` file for your Smart City project:
-
 
 # Smart City Vehicle Tracking: Real-Time Data Engineering Project
 
